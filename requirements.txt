@@ -1,0 +1,6 @@
+empy==3.3.4
+pyros-genmsg
+setuptools
+symforce
+matplotlib
+pyyaml
